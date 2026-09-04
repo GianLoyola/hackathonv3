@@ -1,0 +1,96 @@
+HACKFLOW HACKATHON 2026
+
+Código de Conducta
+
+Documento oficial de lectura  •  Versión septiembre de 2026
+
+Aplicación y aceptación
+Documento de lectura. No contiene campos que deban ser llenados. Su aceptación se registra junto con los Términos y Condiciones y la Política de Privacidad mediante el formulario oficial; para menores, además mediante la autorización firmada por su representante legal.
+
+Artículo 1. Finalidad
+
+El presente Código establece las normas mínimas de convivencia aplicables a HackFlow Hackathon 2026, con el fin de garantizar un entorno profesional, seguro, respetuoso, inclusivo y adecuado para el aprendizaje, la colaboración y la competencia justa.
+
+Artículo 2. Personas sujetas al Código
+
+El Código es aplicable a Participantes, Mentores, integrantes del comité organizador, voluntarios, jurados, ponentes, invitados, proveedores y demás personas que intervengan directamente en el Evento. Comprende las actividades presenciales y las comunicaciones realizadas mediante canales oficiales vinculados con HackFlow.
+
+Artículo 3. Principio de respeto
+
+Toda persona deberá mantener un trato respetuoso. Las diferencias de experiencia, formación, conocimientos, procedencia, opiniones, habilidades o características personales no justifican burlas, humillaciones, descalificaciones, expresiones ofensivas ni comportamientos intimidatorios.
+
+HackFlow promueve un ambiente en el que las personas puedan preguntar, equivocarse, aprender y desarrollar nuevas habilidades sin temor a represalias o ridiculización.
+
+Artículo 4. Trato digno y no discriminación
+
+No se admitirán conductas discriminatorias ni expresiones que menoscaben la dignidad de una persona. La interacción entre asistentes deberá mantenerse dentro de parámetros profesionales y respetuosos en todo momento.
+
+Artículo 5. Acoso, intimidación y límites personales
+
+Se prohíbe cualquier comportamiento de hostigamiento, acoso, intimidación, amenaza o persecución. Cuando una persona comunique que una interacción es incómoda o no deseada, deberá respetarse inmediatamente ese límite. La organización podrá intervenir aun cuando la conducta ocurra en un canal digital relacionado con el Evento.
+
+Artículo 6. Protección de menores de edad
+
+Debido a la participación de adolescentes desde los quince años, todas las personas adultas deberán mantener interacciones profesionales y apropiadas con menores de edad, respetar las disposiciones de seguridad y evitar situaciones que puedan comprometer su bienestar.
+
+Las comunicaciones con menores relacionadas con la hackathon deberán realizarse preferentemente mediante los canales oficiales. Los adultos no deberán solicitar encuentros aislados, información personal innecesaria ni comunicaciones privadas ajenas a las finalidades del Evento.
+
+Artículo 7. Conducta de los Mentores
+
+La función del Mentor consiste en brindar acompañamiento y apoyo formativo. Podrá explicar conceptos generales, formular preguntas, recomendar buenas prácticas, proponer alternativas y ayudar al equipo a organizarse o identificar riesgos.
+
+El Mentor no podrá escribir, modificar o revisar directamente código o entregables; implementar funcionalidades; operar repositorios; ni adoptar decisiones sobre arquitectura, tecnologías, alcance, diseño técnico, funcionalidades o dirección del producto. Todas las decisiones y el trabajo evaluable corresponden exclusivamente a los Participantes.
+
+Cuando la organización advierta una intervención incompatible con estas reglas, podrá requerir su cese inmediato y adoptar medidas para restablecer condiciones equitativas.
+
+Artículo 8. Integridad académica y técnica
+
+Las personas asistentes deberán actuar con honestidad. Se prohíbe presentar trabajo ajeno como propio, apropiarse del código o diseño de otro equipo, copiar deliberadamente una propuesta competidora, falsificar evidencias de desarrollo, manipular repositorios para aparentar trabajo inexistente o encubrir contribuciones no permitidas.
+
+El uso de herramientas, librerías, contenidos, datos o componentes de terceros deberá respetar sus licencias y las reglas técnicas del Evento.
+
+Artículo 9. Respeto entre equipos
+
+Ningún integrante podrá interferir deliberadamente en el trabajo de otro equipo, acceder sin autorización a sus dispositivos o cuentas, eliminar o alterar archivos, obtener o divulgar información indebidamente ni realizar actos destinados a perjudicar su desempeño.
+
+Artículo 10. Uso responsable de infraestructura
+
+Las instalaciones, mobiliario, equipos, conexiones eléctricas, redes y demás recursos deberán utilizarse responsablemente. Cualquier desperfecto, riesgo, incidente o pérdida deberá informarse al personal organizador tan pronto como sea posible.
+
+Artículo 11. Privacidad y confidencialidad
+
+La información personal, conversaciones, fotografías, archivos, credenciales o datos obtenidos durante el Evento no podrán utilizarse para finalidades distintas de aquellas para las que fueron legítimamente proporcionados. Queda prohibido fotografiar pantallas, credenciales o documentos de terceros sin autorización.
+
+Artículo 12. Comunicaciones oficiales
+
+Los grupos de WhatsApp y demás canales oficiales deberán emplearse principalmente para asuntos vinculados con HackFlow. No podrán utilizarse para hostigamiento, mensajes ofensivos, publicidad no autorizada, difusión masiva de contenido ajeno al Evento o acciones que alteren deliberadamente su funcionamiento.
+
+Artículo 13. Presentaciones y evaluaciones
+
+Los equipos deberán mantener una conducta profesional durante pitches, demostraciones y evaluaciones. Podrán formular consultas o solicitar aclaraciones de manera respetuosa, pero no se permitirán amenazas, hostigamiento, insultos, presiones indebidas ni intentos de alterar una calificación.
+
+Artículo 14. Comunicación de incidentes
+
+Quien experimente u observe una posible infracción podrá comunicarla al comité organizador o a la persona responsable designada mediante el canal oficial informado antes del Evento. En situaciones urgentes, deberá acudir de inmediato al personal presente en el recinto.
+
+La organización procurará gestionar los reportes con reserva, imparcialidad, diligencia y respeto, sin prometer confidencialidad absoluta cuando sea necesario investigar, proteger a una persona o cumplir una obligación legal.
+
+Artículo 15. Evaluación de los hechos
+
+La organización podrá recopilar la información razonablemente necesaria, escuchar a las personas involucradas y adoptar medidas preventivas mientras analiza lo ocurrido. La existencia de un reporte no determina automáticamente la responsabilidad de la persona señalada.
+
+Artículo 16. Medidas aplicables
+
+Las medidas deberán ser proporcionales a la naturaleza y gravedad de la infracción. Podrán comprender una advertencia, el requerimiento de cesar una conducta, restricciones de participación, retiro del Evento o descalificación. Cuando corresponda, el hecho podrá comunicarse a la entidad responsable del recinto o a la autoridad competente.
+
+Artículo 17. Protección frente a represalias
+
+No se tolerarán represalias contra quien comunique de buena fe una situación contraria al Código o participe en su evaluación. La presentación deliberada de acusaciones falsas con la finalidad de perjudicar a otra persona podrá constituir una infracción.
+
+Artículo 18. Aceptación y vigencia
+
+El Código rige durante todas las actividades y comunicaciones oficiales de HackFlow Hackathon 2026.
+
+Para personas mayores de edad, al seleccionar «Sí, acepto» en la declaración obligatoria del formulario —después de tener acceso a los enlaces— se manifiesta la aceptación expresa de los Términos y Condiciones, este Código de Conducta y la Política de Privacidad y Tratamiento de Datos Personales.
+
+Para menores de edad, la selección realizada en el formulario no reemplaza la Autorización de Participación, Permanencia y Uso de Imagen y Voz para Menores de Edad. La firma del padre, madre, tutor o representante legal acredita la aceptación de los tres documentos y la autorización de participación, sin perjuicio de la decisión separada sobre imagen y voz.

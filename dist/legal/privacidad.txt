@@ -1,0 +1,115 @@
+HACKFLOW HACKATHON 2026
+
+Política de Privacidad y Tratamiento de Datos Personales
+
+Documento oficial de lectura  •  Versión septiembre de 2026
+
+Pendiente institucional obligatorio
+Antes de publicar o abrir el formulario, la organización debe reemplazar todos los textos entre corchetes con información real y verificable. Estos marcadores son instrucciones internas y no campos para la persona participante.
+
+Forma de aceptación
+Documento de lectura. La persona postulante no debe completar ni firmar este archivo. El consentimiento se registra mediante el formulario oficial o, para menores, mediante la autorización firmada por su representante legal.
+
+1. Finalidad y alcance
+
+Esta Política informa de manera previa, clara y accesible cómo se tratarán los datos personales proporcionados durante la inscripción, selección, organización, participación y cierre de HackFlow Hackathon 2026. Se aplica a postulantes, Participantes, Mentores y representantes legales de menores de edad.
+
+El tratamiento se regirá por la Ley N.° 29733, Ley de Protección de Datos Personales, su Reglamento aprobado por Decreto Supremo N.° 016-2024-JUS y demás normas peruanas aplicables.
+
+2. Responsable del tratamiento
+
+El responsable del banco de datos y del tratamiento es [DENOMINACIÓN LEGAL COMPLETA DE LA ENTIDAD RESPONSABLE], identificada con RUC N.° [RUC], con domicilio en [DOMICILIO], correo de privacidad [CORREO DE PRIVACIDAD] y teléfono o canal de contacto [TELÉFONO/CANAL].
+
+HackFlow podrá utilizarse como nombre del Evento o marca, pero no sustituye la identificación legal de la entidad responsable.
+
+3. Banco de datos personales
+
+Los datos serán incorporados al banco de datos personales denominado [NOMBRE DEL BANCO DE DATOS], con código de inscripción [CÓDIGO DEL REGISTRO NACIONAL, SI YA FUE OTORGADO], bajo titularidad del responsable indicado en la sección anterior.
+
+La entidad responsable deberá completar e inscribir el banco de datos, cuando corresponda, antes de iniciar la recopilación.
+
+4. Datos tratados
+
+Según la categoría y etapa de participación, podrán tratarse nombres y apellidos; documento de identidad; fecha de nacimiento o edad; institución educativa o centro laboral; ciudad; correo; teléfono; perfil o experiencia; preferencias de participación; respuestas del formulario; información de selección; equipo asignado; asistencia; acreditación; comunicaciones; entregables; repositorio y contribuciones; calificaciones; incidencias; constancias y evidencia de aceptación.
+
+Cuando se trate de menores, se tratarán adicionalmente los datos identificativos y de contacto del padre, madre, tutor o representante legal, la autorización firmada y la información estrictamente necesaria para gestionar su participación y seguridad.
+
+No se solicitarán datos sensibles salvo necesidad real, base legal y salvaguardas adecuadas. Si se requiere información de salud para atender una necesidad particular o emergencia, se solicitará mediante una declaración separada y con el consentimiento escrito que corresponda.
+
+5. Finalidades necesarias
+
+Los datos se utilizarán para recibir y validar inscripciones; verificar edad y requisitos; gestionar selección y vacantes; contactar a postulantes; conformar equipos; acreditar y registrar asistencia; organizar jornadas, mentorías y evaluaciones; gestionar autorizaciones de menores; prevenir y atender incidentes; operar canales oficiales; verificar la trazabilidad de proyectos; administrar la premiación; emitir diplomas, constancias o certificados; responder consultas; y conservar evidencia del consentimiento y de la versión de los documentos aceptados.
+
+Los datos no serán utilizados para finalidades incompatibles o adicionales sin cumplir previamente las condiciones exigidas por la normativa.
+
+6. Carácter obligatorio u opcional
+
+Son obligatorios únicamente los datos identificados como necesarios para verificar requisitos y gestionar la participación. La negativa a proporcionarlos impedirá completar la inscripción o ejecutar la actividad correspondiente.
+
+Los datos no indispensables deberán identificarse como opcionales. La negativa a autorizar el uso de imagen y voz para difusión institucional no impedirá participar, salvo que una captación concreta sea estrictamente necesaria y ello se informe previamente de manera específica y justificada.
+
+7. Base jurídica y consentimiento
+
+Cuando el tratamiento requiera consentimiento, este será libre, previo, expreso, inequívoco e informado. Para personas mayores de edad, la selección no premarcada de «Sí, acepto» en el formulario, después de mostrar los enlaces y la declaración completa, constituirá manifestación expresa de aceptación y consentimiento para las finalidades necesarias descritas en esta Política.
+
+La publicación de esta Política no sustituye la obtención del consentimiento. La entidad responsable conservará evidencia de la respuesta, fecha, hora, versión de los documentos y demás datos razonables de trazabilidad.
+
+8. Datos de menores de edad
+
+La participación de una persona menor de dieciocho años requerirá la Autorización de Participación, Permanencia y Uso de Imagen y Voz para Menores de Edad firmada por su padre, madre, tutor o representante legal. La organización realizará verificaciones razonables de identidad y representación.
+
+La información dirigida a menores se presentará con lenguaje comprensible. La selección del menor en el formulario no reemplaza la autorización firmada de su representante ni habilita por sí sola el tratamiento. Se respetarán las reglas especiales de la normativa peruana sobre capacidad y consentimiento de adolescentes.
+
+9. Uso de imagen y voz
+
+Las fotografías, videos, grabaciones de voz y demás material audiovisual se tratarán únicamente de acuerdo con una autorización separada, específica y no premarcada. La persona adulta o el representante del menor podrá elegir autorizar o no autorizar la difusión institucional, sin que la negativa afecte la participación en las actividades ordinarias.
+
+La autorización deberá informar los medios, finalidades, alcance territorial, plazo y mecanismo de revocación. Las imágenes necesarias por razones de seguridad o control de acceso se regirán por la información específica del recinto o sistema correspondiente.
+
+10. Destinatarios y encargados
+
+El acceso se limitará al personal organizador y a terceros que necesiten tratar datos para funciones directamente vinculadas con el Evento, tales como [PROVEEDOR DE FORMULARIO], [PROVEEDOR DE ALMACENAMIENTO], [PROVEEDOR DE MENSAJERÍA], [ENTIDAD DEL RECINTO], [ALIADOS QUE RECIBIRÁN DATOS] y demás encargados identificados antes de la inscripción.
+
+La entidad responsable deberá celebrar los acuerdos pertinentes con los encargados, limitar sus instrucciones y exigir medidas de seguridad y confidencialidad. Los datos no serán vendidos.
+
+11. Transferencias nacionales e internacionales
+
+Si los proveedores almacenan o procesan información fuera del Perú, se realizarán flujos transfronterizos hacia [PAÍSES Y DESTINATARIOS], aplicando las garantías y comunicaciones requeridas por la normativa. Si no existen transferencias internacionales, la entidad responsable deberá reemplazar esta sección por una declaración expresa en ese sentido antes de publicar.
+
+12. Comunicaciones por WhatsApp y otros canales
+
+La incorporación a un grupo oficial de WhatsApp deberá informarse previamente. El número telefónico, nombre de perfil, fotografía y demás información visible según la configuración de la cuenta podrán ser observados por los demás integrantes. La persona podrá solicitar un canal alternativo razonable cuando esté disponible.
+
+Los canales oficiales se utilizarán para información operativa del Evento y no para publicidad ajena a las finalidades informadas sin consentimiento adicional.
+
+13. Decisiones automatizadas
+
+[INDICAR SI EXISTEN DECISIONES AUTOMATIZADAS O ELABORACIÓN DE PERFILES]. Si no existen, deberá declararse: «No se adoptarán decisiones con efectos jurídicos o significativamente similares basadas únicamente en tratamiento automatizado». Si se implementan, se informará la lógica, consecuencias y mecanismos de intervención correspondientes.
+
+14. Plazos de conservación
+
+Los datos de postulantes no seleccionados se conservarán por [PLAZO]. Los datos de Participantes y Mentores se conservarán durante la ejecución del Evento y por [PLAZO POSTERIOR] para constancias, responsabilidades y documentación institucional legítima. Las autorizaciones, evidencia de aceptación e información necesaria para acreditar cumplimiento se conservarán por [PLAZO LEGAL U OPERATIVO].
+
+Vencidos los plazos y desaparecida la finalidad, los datos serán eliminados, anonimizados o bloqueados conforme a la normativa. La entidad responsable deberá sustituir todos los plazos entre corchetes antes de publicar.
+
+15. Seguridad e incidentes
+
+La entidad responsable adoptará medidas técnicas, organizativas y legales razonables para prevenir acceso no autorizado, pérdida, alteración, divulgación o uso indebido. Estas medidas comprenderán controles de acceso, gestión de permisos, copias de seguridad cuando correspondan, deberes de confidencialidad y revisión de proveedores.
+
+Los incidentes de seguridad serán evaluados, documentados y comunicados a la autoridad o a las personas afectadas cuando lo exija la normativa aplicable.
+
+16. Derechos del titular
+
+La persona titular o su representante podrá solicitar acceso, información, rectificación, actualización, inclusión, cancelación o supresión, oposición y, cuando corresponda, revocación del consentimiento, mediante [CORREO DE PRIVACIDAD] o en [DIRECCIÓN/CANAL]. La solicitud deberá permitir verificar la identidad y precisar el derecho ejercido.
+
+La entidad responsable atenderá las solicitudes dentro de los plazos legales. Si la respuesta no resulta satisfactoria, la persona podrá acudir a la Autoridad Nacional de Protección de Datos Personales por los canales oficiales disponibles.
+
+17. Modificaciones
+
+La Política podrá actualizarse por cambios operativos, técnicos o legales. Cuando una modificación altere sustancialmente las finalidades, destinatarios o condiciones informadas, se comunicará antes de su aplicación y se obtendrá un nuevo consentimiento cuando corresponda. Se conservará registro de las versiones y fechas de vigencia.
+
+18. Declaración del formulario
+
+La declaración obligatoria para mayores de edad deberá mostrarse junto a enlaces accesibles a los tres documentos y decir: «Declaro que tengo dieciocho años o más y que, antes de enviar mi inscripción, he podido acceder, leer y comprender los Términos y Condiciones, el Código de Conducta y la Política de Privacidad y Tratamiento de Datos Personales de HackFlow Hackathon 2026. Al seleccionar “Sí, acepto”, manifiesto mi aceptación expresa de dichos documentos y otorgo mi consentimiento para el tratamiento de mis datos personales exclusivamente para las finalidades necesarias descritas en esta Política». Opciones: «Sí, acepto» y «No acepto». La respuesta será obligatoria y no estará seleccionada por defecto.
+
+La autorización de imagen y voz deberá aparecer en una pregunta independiente. Para menores de edad, esta declaración no sustituye la autorización firmada del representante legal.

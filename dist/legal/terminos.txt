@@ -1,0 +1,252 @@
+HACKFLOW HACKATHON 2026
+
+Términos y Condiciones
+
+Documento oficial de lectura  •  Versión septiembre de 2026
+
+Cómo se acepta este documento
+Documento de lectura. La persona postulante no debe completar ni firmar este archivo. La aceptación se registra únicamente mediante el formulario oficial o, tratándose de menores de edad, mediante la autorización independiente firmada por su representante legal.
+
+Artículo 1. Objeto
+
+Los presentes Términos y Condiciones regulan la inscripción, selección, participación y desarrollo de HackFlow Hackathon 2026, en adelante, “HackFlow” o “el Evento”.
+
+La inscripción exige una manifestación expresa de aceptación conforme al artículo 32. La sola navegación, lectura o remisión incompleta del formulario no se considerará aceptación. La participación definitiva estará sujeta al cumplimiento de los requisitos establecidos por la organización y, en el caso de participantes menores de edad, a la presentación de la autorización firmada por su padre, madre, tutor o representante legal.
+
+Artículo 2. Naturaleza del Evento
+
+HackFlow Hackathon 2026 es un evento tecnológico intensivo y sin fines de lucro orientado a fomentar la innovación, el aprendizaje colaborativo y el desarrollo de productos de software destinados a responder a problemáticas vinculadas con la comunidad.
+
+El Evento promoverá la conformación de equipos multidisciplinarios y la participación de jóvenes con distintos niveles de experiencia, procurando que quienes se encuentren en etapas iniciales de formación puedan desarrollar sus capacidades con el acompañamiento de mentores.
+
+Artículo 3. Fechas y modalidad
+
+HackFlow Hackathon 2026 se desarrollará de manera presencial los días 22, 23 y 24 de octubre de 2026.
+
+Los horarios, lugar de realización, programación definitiva, indicaciones de ingreso y cualquier información operativa serán comunicados a través de los canales oficiales habilitados por la organización.
+
+La organización podrá efectuar modificaciones justificadas en los horarios, programación, espacios, actividades o dinámica del Evento cuando resulten necesarias para su adecuado desarrollo. Cualquier modificación relevante será informada oportunamente por los canales oficiales.
+
+Artículo 4. Categorías de participación
+
+HackFlow contará con las categorías de Participante y Mentor.
+
+Podrán postular como Participantes las personas que tengan entre 15 y 25 años y que se encuentren interesadas en áreas vinculadas con programación, diseño, tecnología, innovación, emprendimiento u otras disciplinas relacionadas con el desarrollo del proyecto.
+
+Podrán postular como Mentores las personas que tengan entre 20 y 29 años y que cuenten con conocimientos o experiencia suficientes para orientar a los equipos durante el desarrollo de la hackathon.
+
+La función del Mentor será exclusivamente formativa. Podrá explicar conceptos generales, formular preguntas, recomendar buenas prácticas y ayudar al equipo a organizarse. No podrá escribir, modificar o revisar directamente el código o los entregables; implementar funcionalidades; operar repositorios; ni decidir la arquitectura, las tecnologías, el alcance, el diseño técnico o la dirección del proyecto. Esas decisiones y el trabajo evaluable corresponden exclusivamente a los Participantes.
+
+Artículo 5. Conformación de los equipos
+
+Cada equipo estará integrado, como regla general, por cuatro Participantes y un Mentor.
+
+La organización podrá intervenir en la conformación, reorganización o complementación de los equipos cuando resulte necesario para asegurar su adecuado funcionamiento, procurando mantener una distribución equilibrada de perfiles y conocimientos.
+
+La asignación de un Mentor tiene como finalidad facilitar el aprendizaje y brindar acompañamiento, especialmente a aquellos Participantes que cuenten con menor experiencia previa.
+
+Artículo 6. Inscripción
+
+La inscripción deberá efectuarse mediante el formulario oficial establecido por HackFlow dentro del plazo comunicado por la organización.
+
+Los postulantes deberán proporcionar información verdadera, completa y actualizada. La presentación de información falsa, documentación adulterada, suplantación de identidad, registros fraudulentos o cualquier otra acción destinada a alterar indebidamente el procedimiento de inscripción podrá determinar la exclusión del postulante.
+
+La inscripción mediante el formulario no implica la asignación automática de una vacante.
+
+Artículo 7. Comunicaciones oficiales
+
+Las comunicaciones relacionadas con selección, conformación de equipos, horarios, programación, indicaciones de ingreso, modificaciones y demás asuntos vinculados con el Evento serán realizadas principalmente mediante los canales oficiales de difusión de HackFlow.
+
+La organización no tendrá la obligación de comunicar individualmente a cada postulante o Participante las novedades que hayan sido debidamente difundidas en dicho canal.
+
+Será responsabilidad de cada persona inscrita mantenerse informada mediante los canales oficiales y revisar periódicamente las comunicaciones realizadas por la organización.
+
+Artículo 8. Participación de menores de edad
+
+Los Participantes menores de dieciocho años deberán contar necesariamente con autorización expresa de su padre, madre, tutor o representante legal.
+
+La Autorización de Participación, Permanencia y Uso de Imagen y Voz para Menores de Edad deberá completarse conforme al formato oficial proporcionado por la organización, estar firmada por el padre, madre, tutor o representante legal y adjuntarse durante la inscripción mediante el formulario correspondiente. Mediante su firma, el representante declara haber leído y aceptado estos Términos y Condiciones, el Código de Conducta y la Política de Privacidad y Tratamiento de Datos Personales.
+
+Adicionalmente, el menor deberá presentar una copia física e impresa del mismo documento, debidamente firmada, durante el procedimiento de acreditación del primer día del Evento.
+
+La organización podrá contrastar el documento presentado físicamente con aquel remitido durante la inscripción. Cuando se detecten inconsistencias sustanciales, ausencia de firmas, datos incompletos o falta de autorización, la organización podrá impedir temporalmente el ingreso del menor hasta que la situación sea regularizada.
+
+Artículo 9. Alcance de la autorización del menor
+
+La autorización del representante legal será otorgada mediante un documento independiente de los presentes Términos y Condiciones. La selección realizada por el menor en el formulario de inscripción no reemplaza dicha autorización ni produce por sí sola su admisión al Evento.
+
+Dicho documento contemplará la autorización para la participación presencial del menor durante las fechas y horarios establecidos, su permanencia en las instalaciones, la aceptación de las reglas del Evento, el tratamiento de datos personales necesario para gestionar su participación y una decisión separada y libre respecto del uso de su imagen y voz.
+
+Las condiciones específicas aplicables al menor deberán constar expresamente en dicho documento.
+
+Artículo 10. Temáticas de los proyectos
+
+Los equipos deberán desarrollar sus propuestas dentro de una de las tres temáticas oficiales de HackFlow Hackathon 2026:
+
+Seguridad Ciudadana, Educación o Participación Ciudadana.
+
+Cada equipo podrá seleccionar libremente una de estas temáticas. La elección de una temática no obliga al equipo a desarrollar soluciones vinculadas con las demás.
+
+Artículo 11. Definición y registro del proyecto
+
+Durante el periodo establecido por la organización, cada equipo deberá seleccionar la temática en la que participará y definir el proyecto que desarrollará.
+
+Una vez que la propuesta haya sido registrada, presentada o validada oficialmente ante la organización, el equipo no podrá sustituirla por un proyecto diferente durante el desarrollo de la hackathon.
+
+Esta disposición tiene como finalidad preservar la igualdad de condiciones entre los equipos y evitar que una propuesta sea sustituida posteriormente como consecuencia del conocimiento de los proyectos desarrollados por otros participantes.
+
+Artículo 12. Evolución del proyecto
+
+La restricción establecida en el artículo anterior no impedirá la evolución normal de la propuesta.
+
+Los equipos podrán modificar funcionalidades, arquitectura, herramientas, tecnologías, interfaz, alcance, experiencia de usuario, metodología, características o componentes del producto siempre que se conserve sustancialmente el problema planteado y la identidad esencial de la propuesta registrada.
+
+Cuando circunstancias excepcionales hagan inviable la continuación del proyecto originalmente definido, el equipo podrá solicitar autorización al comité organizador. La aceptación o rechazo de dicho cambio será determinada atendiendo a las circunstancias del caso y a la necesidad de mantener condiciones equitativas entre participantes.
+
+Artículo 13. Equipamiento personal
+
+Cada Participante será responsable de llevar su propia laptop y los accesorios necesarios para trabajar durante las jornadas del Evento.
+
+La organización procurará disponer de la infraestructura anunciada para el desarrollo de la hackathon, sin que ello implique asumir responsabilidad por pérdida, deterioro, incompatibilidad, falla o daño de los equipos personales de los asistentes, salvo que corresponda legalmente.
+
+Los Participantes deberán mantener bajo su cuidado sus dispositivos y pertenencias durante toda su permanencia en las instalaciones.
+
+Artículo 14. Desarrollo de los proyectos
+
+Los proyectos presentados deberán ser desarrollados sustancialmente durante HackFlow Hackathon 2026.
+
+No se permitirá presentar como producto desarrollado durante el Evento una solución que hubiese sido previamente terminada.
+
+Esto no impide utilizar herramientas, librerías, frameworks, APIs, servicios, plantillas, componentes Open Source, datasets, sistemas de diseño u otros recursos existentes con anterioridad, siempre que su utilización respete las licencias y condiciones correspondientes y que dichos elementos no sean presentados falsamente como trabajo original del equipo.
+
+Artículo 15. Repositorios y trazabilidad del desarrollo
+
+El código sujeto a evaluación deberá almacenarse en los repositorios de GitHub establecidos o autorizados por la organización.
+
+La organización podrá revisar el historial de commits, ramas, Pull Requests, fechas, contribuciones y demás información técnica razonablemente necesaria para verificar la evolución del proyecto y la participación efectiva de sus integrantes.
+
+Las reglas específicas relacionadas con los periodos habilitados para realizar modificaciones evaluables serán comunicadas antes del inicio del desarrollo.
+
+Artículo 16. Uso de herramientas de Inteligencia Artificial
+
+Se permitirá el uso de herramientas basadas en Inteligencia Artificial como mecanismo de apoyo para el desarrollo de los proyectos.
+
+Los equipos podrán utilizar este tipo de tecnologías para programación, prototipado, investigación, documentación, generación de contenido, diseño, análisis u otras funciones relacionadas con la solución.
+
+El uso de Inteligencia Artificial no exime a los Participantes de comprender el funcionamiento de aquello que presentan. Los integrantes deberán encontrarse en capacidad de explicar las decisiones técnicas, estructura, funcionamiento y componentes relevantes de su producto durante la evaluación.
+
+La incapacidad para explicar elementos esenciales del proyecto podrá ser considerada por el jurado dentro del criterio de Defensa Técnica.
+
+Artículo 17. Intervención del Mentor
+
+La participación del Mentor deberá conservar una naturaleza formativa.
+
+El Mentor podrá acompañar el análisis del problema, explicar conceptos generales, formular preguntas, proponer alternativas y ayudar a identificar riesgos o errores. No podrá escribir, modificar o revisar directamente código o entregables, implementar funcionalidades, operar repositorios ni adoptar decisiones sobre arquitectura, tecnologías, alcance, diseño técnico o dirección del producto. Todas las decisiones y la elaboración del proyecto deberán corresponder a los Participantes.
+
+Cuando la organización determine que un Mentor está realizando directamente el trabajo que corresponde a los Participantes, podrá advertir al equipo y adoptar las medidas necesarias para restablecer condiciones equitativas de participación.
+
+Artículo 18. Propiedad intelectual
+
+Los derechos de propiedad intelectual que correspondan sobre los proyectos desarrollados durante HackFlow permanecerán, como regla general, en sus respectivos autores.
+
+La participación en HackFlow no supone, por sí misma, una transferencia de titularidad a favor de HackFlow, de la organización del Evento, de sus aliados, auspiciadores o instituciones colaboradoras.
+
+Cada equipo será responsable de garantizar que los elementos utilizados dentro de su producto sean propios o se encuentren debidamente autorizados o licenciados.
+
+Artículo 19. Proyecto ganador y modalidad Open Source
+
+Ningún proyecto será publicado como Open Source de manera automática. La publicación total o parcial requerirá una decisión previa, expresa y conjunta de sus autores y la selección de una licencia adecuada.
+
+Antes de efectuar cualquier publicación, deberán evaluarse las licencias, dependencias, bases de datos, credenciales, información confidencial, servicios de terceros y demás componentes cuya divulgación pueda encontrarse restringida.
+
+La elección de una modalidad diferente por parte del equipo no implicará, por sí sola, pérdida del reconocimiento obtenido durante la hackathon.
+
+Artículo 20. Evaluación de los proyectos
+
+La evaluación final será realizada por un mínimo de tres jurados designados o invitados por la organización.
+
+La evaluación comprenderá los criterios de Impacto y Viabilidad, Innovación, Diseño y Defensa Técnica, de acuerdo con las condiciones y ponderaciones que la organización comunique antes de las presentaciones finales.
+
+El jurado podrá formular preguntas, solicitar aclaraciones y requerir demostraciones destinadas a verificar el funcionamiento, originalidad, viabilidad y comprensión técnica del producto presentado.
+
+Artículo 21. Presentación final
+
+Cada equipo deberá realizar un pitch y una demostración de su producto dentro del tiempo establecido por la organización.
+
+Durante esta instancia deberá presentar de manera clara el problema abordado, la solución propuesta, el funcionamiento del producto y aquellos elementos técnicos y estratégicos que resulten relevantes para su evaluación.
+
+El incumplimiento injustificado del tiempo establecido podrá ser considerado dentro de la evaluación cuando afecte las condiciones generales de la presentación.
+
+Artículo 22. Resultado de la evaluación
+
+Las decisiones adoptadas por el jurado serán definitivas respecto de la valoración técnica y competitiva de los proyectos, salvo que se detecte un error material, administrativo o de cómputo antes de la publicación definitiva de resultados.
+
+La organización podrá verificar los resultados antes de realizar el anuncio oficial.
+
+Artículo 23. Asistencia y permanencia
+
+Los Participantes y Mentores deberán asistir a las jornadas presenciales y cumplir los horarios establecidos por la organización.
+
+La asistencia podrá ser registrada para fines de control, acreditación, seguridad, certificación y organización del Evento.
+
+Cuando se establezca un porcentaje mínimo de asistencia como requisito para obtener constancia, diploma o certificado, dicha condición deberá ser informada antes del Evento.
+
+Artículo 24. Abandono o ausencia
+
+El Participante o Mentor que no pueda continuar en el Evento deberá comunicarlo al comité organizador tan pronto como sea posible.
+
+Cuando una ausencia pueda comprometer la continuidad de un equipo, la organización podrá adoptar las decisiones que resulten razonables para procurar su continuidad. La organización no garantiza la posibilidad de reemplazar a un integrante que abandone la competencia una vez iniciado el Evento.
+
+Artículo 25. Normas de conducta
+
+Todos los Participantes y Mentores estarán sujetos al Código de Conducta de HackFlow Hackathon 2026, el cual constituye un documento independiente y complementario de estos Términos y Condiciones.
+
+El incumplimiento de dicho Código podrá generar medidas disciplinarias de acuerdo con la naturaleza y gravedad de la conducta.
+
+Artículo 26. Incumplimientos vinculados con la competencia
+
+La organización podrá investigar cualquier circunstancia que comprometa la integridad del Evento, incluyendo casos de plagio, fraude, manipulación de evidencias, uso indebido del trabajo de terceros, sabotaje, suplantación, intervención injustificada de Mentores, incumplimiento deliberado de las reglas técnicas o presentación de proyectos previamente desarrollados como si hubieran sido creados durante HackFlow.
+
+Las medidas adoptadas deberán guardar razonable proporcionalidad con la gravedad del incumplimiento y podrán comprender desde una advertencia hasta la descalificación del equipo.
+
+Artículo 27. Uso de imagen y voz
+
+Las condiciones relativas a fotografías, videos, grabaciones, entrevistas y demás registros audiovisuales serán reguladas mediante la Autorización de Uso de Imagen y Voz de HackFlow Hackathon 2026.
+
+En el caso de Participantes mayores de edad, dicha autorización deberá solicitarse mediante una declaración separada, específica y no premarcada dentro del procedimiento de inscripción. La negativa no impedirá la inscripción, salvo que una captación puntual sea estrictamente necesaria y ello se informe de forma previa y justificada.
+
+En el caso de menores de edad, la autorización correspondiente deberá ser otorgada por su padre, madre, tutor o representante legal.
+
+La aceptación general de estos Términos y Condiciones no sustituirá aquellas declaraciones de consentimiento que, por su naturaleza, deban ser otorgadas de manera específica.
+
+Artículo 28. Tratamiento de datos personales
+
+Los datos recopilados durante la inscripción y desarrollo del Evento serán tratados de acuerdo con la Política de Privacidad y Tratamiento de Datos Personales de HackFlow Hackathon 2026 y con la legislación peruana aplicable.
+
+El tratamiento deberá limitarse a las finalidades previamente comunicadas a los titulares de los datos o, cuando corresponda, a sus representantes legales.
+
+La normativa peruana vigente en esta materia comprende la Ley N.° 29733 y el Reglamento aprobado mediante Decreto Supremo N.° 016-2024-JUS.
+
+Artículo 29. Seguridad dentro del Evento
+
+Los asistentes deberán respetar las disposiciones de seguridad y las reglas propias de las instalaciones en las que se realice HackFlow.
+
+La permanencia de los menores de edad estará limitada a los horarios y condiciones expresamente autorizados por sus representantes legales.
+
+Cualquier situación que pueda afectar la seguridad o integridad de una persona deberá ser comunicada inmediatamente al personal responsable del Evento.
+
+Artículo 30. Modificaciones
+
+La organización podrá modificar los presentes Términos y Condiciones cuando circunstancias operativas, técnicas, legales o de seguridad lo hagan necesario.
+
+Cuando las modificaciones afecten sustancialmente las condiciones de participación, deberán ser informadas a través de los canales oficiales antes de su aplicación, siempre que las circunstancias lo permitan.
+
+Artículo 31. Situaciones no previstas
+
+Las situaciones no contempladas expresamente en este documento serán resueltas por el comité organizador procurando preservar la igualdad entre equipos, la integridad de la competencia, la seguridad de los asistentes y los objetivos de HackFlow.
+
+Artículo 32. Aceptación
+
+La inscripción de una persona mayor de edad requerirá que, después de tener acceso a los enlaces de los documentos, seleccione «Sí, acepto» en una declaración obligatoria, no premarcada, que identifique de forma expresa los Términos y Condiciones, el Código de Conducta y la Política de Privacidad y Tratamiento de Datos Personales de HackFlow Hackathon 2026. Esa selección constituirá su manifestación de aceptación de los tres documentos y, cuando corresponda, su consentimiento para el tratamiento de datos necesario para las finalidades informadas en la Política de Privacidad.
+
+Cuando el postulante sea menor de edad, su participación quedará sujeta a la presentación y verificación de la autorización firmada por su padre, madre, tutor o representante legal. La organización conservará evidencia razonable de la versión aceptada, fecha, hora y respuesta registrada, conforme a la Política de Privacidad.
