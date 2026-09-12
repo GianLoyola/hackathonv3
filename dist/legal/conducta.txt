@@ -2,9 +2,14 @@ HACKFLOW HACKATHON 2026
 
 Código de Conducta
 
-Documento oficial de lectura  •  Versión septiembre de 2026
+Documento de lectura · Versión septiembre de 2026
+
+Organizador: Giancarlos Loyola Caraza.
+RUC N.° 10718795503.
+Correo: giandev312@gmail.com.
 
 Aplicación y aceptación
+
 Documento de lectura. No contiene campos que deban ser llenados. Su aceptación se registra junto con los Términos y Condiciones y la Política de Privacidad mediante el formulario oficial; para menores, además mediante la autorización firmada por su representante legal.
 
 Artículo 1. Finalidad
@@ -81,7 +86,11 @@ La organización podrá recopilar la información razonablemente necesaria, escu
 
 Artículo 16. Medidas aplicables
 
-Las medidas deberán ser proporcionales a la naturaleza y gravedad de la infracción. Podrán comprender una advertencia, el requerimiento de cesar una conducta, restricciones de participación, retiro del Evento o descalificación. Cuando corresponda, el hecho podrá comunicarse a la entidad responsable del recinto o a la autoridad competente.
+Las medidas deberán ser proporcionales a la naturaleza y gravedad de la infracción. Podrán comprender una advertencia, el requerimiento de cesar una conducta, restricciones para intervenir en determinadas actividades o la descalificación y exclusión de la competencia. Cuando corresponda, el hecho podrá comunicarse a la entidad responsable del recinto o a la autoridad competente.
+
+La descalificación o exclusión de la competencia no implica la expulsión física de la sede, tanto para menores de edad como para participantes mayores de edad. La persona descalificada podrá permanecer en los espacios habilitados para asistentes, dentro de los horarios oficiales y respetando las reglas de convivencia y seguridad, sin continuar en las actividades competitivas de las que haya sido excluida.
+
+Esta distinción no impide adoptar medidas de protección ante un riesgo real, realizar una evacuación ni cumplir las indicaciones legítimas de los responsables de seguridad del recinto o de las autoridades competentes. En el caso de un menor, la organización contactará a su representante y coordinará una permanencia o salida segura, según corresponda.
 
 Artículo 17. Protección frente a represalias
 
@@ -91,6 +100,6 @@ Artículo 18. Aceptación y vigencia
 
 El Código rige durante todas las actividades y comunicaciones oficiales de HackFlow Hackathon 2026.
 
-Para personas mayores de edad, al seleccionar «Sí, acepto» en la declaración obligatoria del formulario —después de tener acceso a los enlaces— se manifiesta la aceptación expresa de los Términos y Condiciones, este Código de Conducta y la Política de Privacidad y Tratamiento de Datos Personales.
+Para personas mayores de edad, al seleccionar «Sí» en la declaración obligatoria del formulario, después de tener acceso a los enlaces, se manifiesta la aceptación expresa de los Términos y Condiciones, este Código de Conducta y la Política de Privacidad y Tratamiento de Datos Personales.
 
-Para menores de edad, la selección realizada en el formulario no reemplaza la Autorización de Participación, Permanencia y Uso de Imagen y Voz para Menores de Edad. La firma del padre, madre, tutor o representante legal acredita la aceptación de los tres documentos y la autorización de participación, sin perjuicio de la decisión separada sobre imagen y voz.
+Para menores de edad, la selección realizada en el formulario no reemplaza la Autorización para Menores de Edad — Participación, permanencia y decisión sobre uso de imagen y voz. La firma del padre, madre, tutor o representante legal acredita la aceptación de los tres documentos y la autorización de participación, sin perjuicio de la decisión separada sobre imagen y voz.

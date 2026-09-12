@@ -2,10 +2,15 @@ HACKFLOW HACKATHON 2026
 
 Términos y Condiciones
 
-Documento oficial de lectura  •  Versión septiembre de 2026
+Documento de lectura · Versión septiembre de 2026
+
+Organizador: Giancarlos Loyola Caraza.
+RUC N.° 10718795503.
+Correo: giandev312@gmail.com.
 
 Cómo se acepta este documento
-Documento de lectura. La persona postulante no debe completar ni firmar este archivo. La aceptación se registra únicamente mediante el formulario oficial o, tratándose de menores de edad, mediante la autorización independiente firmada por su representante legal.
+
+Este documento es de lectura y no contiene campos para completar ni firmar. La aceptación se registra mediante el formulario oficial; para menores de edad se requiere, además, la autorización independiente firmada por su representante legal.
 
 Artículo 1. Objeto
 
@@ -19,13 +24,13 @@ HackFlow Hackathon 2026 es un evento tecnológico intensivo y sin fines de lucro
 
 El Evento promoverá la conformación de equipos multidisciplinarios y la participación de jóvenes con distintos niveles de experiencia, procurando que quienes se encuentren en etapas iniciales de formación puedan desarrollar sus capacidades con el acompañamiento de mentores.
 
-Artículo 3. Fechas y modalidad
+Artículo 3. Fechas, sede y modalidad
 
-HackFlow Hackathon 2026 se desarrollará de manera presencial los días 22, 23 y 24 de octubre de 2026.
+HackFlow Hackathon 2026 se realizará de manera presencial. Las fechas tentativas son el 12, 13 y 14 de noviembre de 2026. Las fechas definitivas, la sede y los horarios todavía no se encuentran confirmados y serán comunicados por los canales oficiales antes del Evento.
 
-Los horarios, lugar de realización, programación definitiva, indicaciones de ingreso y cualquier información operativa serán comunicados a través de los canales oficiales habilitados por la organización.
+La inscripción realizada mientras estos datos estén pendientes expresa interés en participar y disponibilidad respecto de las fechas tentativas; no constituye una confirmación de asistencia a fechas, sede u horarios todavía no informados. Una vez comunicadas las condiciones definitivas, se solicitará la confirmación de disponibilidad. Para los menores de edad, su representante deberá confirmar que autoriza la participación en esas condiciones antes de la acreditación.
 
-La organización podrá efectuar modificaciones justificadas en los horarios, programación, espacios, actividades o dinámica del Evento cuando resulten necesarias para su adecuado desarrollo. Cualquier modificación relevante será informada oportunamente por los canales oficiales.
+La organización podrá efectuar modificaciones justificadas en la programación, espacios, actividades o dinámica del Evento. Los cambios relevantes se comunicarán oportunamente; si afectan las fechas, sede u horarios ya confirmados, se solicitará una nueva confirmación de disponibilidad y, en el caso de menores, de su representante.
 
 Artículo 4. Categorías de participación
 
@@ -49,6 +54,8 @@ Artículo 6. Inscripción
 
 La inscripción deberá efectuarse mediante el formulario oficial establecido por HackFlow dentro del plazo comunicado por la organización.
 
+El formulario solicita nombres, apellidos, edad, correo electrónico de contacto, número de celular para WhatsApp, motivación, campo y nivel de experiencia, disponibilidad de laptop, disponibilidad para asistir, pertenencia al grupo de WhatsApp y aceptación de los documentos legales. La pregunta sobre ideas para aportar es opcional. Los menores deberán adjuntar, además, la autorización de su representante conforme al artículo 8. La decisión sobre imagen y voz se recabará de manera separada.
+
 Los postulantes deberán proporcionar información verdadera, completa y actualizada. La presentación de información falsa, documentación adulterada, suplantación de identidad, registros fraudulentos o cualquier otra acción destinada a alterar indebidamente el procedimiento de inscripción podrá determinar la exclusión del postulante.
 
 La inscripción mediante el formulario no implica la asignación automática de una vacante.
@@ -65,7 +72,7 @@ Artículo 8. Participación de menores de edad
 
 Los Participantes menores de dieciocho años deberán contar necesariamente con autorización expresa de su padre, madre, tutor o representante legal.
 
-La Autorización de Participación, Permanencia y Uso de Imagen y Voz para Menores de Edad deberá completarse conforme al formato oficial proporcionado por la organización, estar firmada por el padre, madre, tutor o representante legal y adjuntarse durante la inscripción mediante el formulario correspondiente. Mediante su firma, el representante declara haber leído y aceptado estos Términos y Condiciones, el Código de Conducta y la Política de Privacidad y Tratamiento de Datos Personales.
+La Autorización para Menores de Edad: La participación, permanencia y decisión sobre uso de imagen y voz deberá completarse conforme al formato oficial proporcionado por la organización, estar firmada por el padre, madre, tutor o representante legal y adjuntarse durante la inscripción mediante el formulario correspondiente. Mediante su firma, el representante declara haber leído y aceptado estos Términos y Condiciones, el Código de Conducta y la Política de Privacidad y Tratamiento de Datos Personales.
 
 Adicionalmente, el menor deberá presentar una copia física e impresa del mismo documento, debidamente firmada, durante el procedimiento de acreditación del primer día del Evento.
 
@@ -105,7 +112,7 @@ Cuando circunstancias excepcionales hagan inviable la continuación del proyecto
 
 Artículo 13. Equipamiento personal
 
-Cada Participante será responsable de llevar su propia laptop y los accesorios necesarios para trabajar durante las jornadas del Evento.
+Contar con laptop propia y llevarla con los accesorios necesarios es un requisito de participación. La organización no proporcionará una laptop como alternativa a este requisito.
 
 La organización procurará disponer de la infraestructura anunciada para el desarrollo de la hackathon, sin que ello implique asumir responsabilidad por pérdida, deterioro, incompatibilidad, falla o daño de los equipos personales de los asistentes, salvo que corresponda legalmente.
 
@@ -189,7 +196,7 @@ Los Participantes y Mentores deberán asistir a las jornadas presenciales y cump
 
 La asistencia podrá ser registrada para fines de control, acreditación, seguridad, certificación y organización del Evento.
 
-Cuando se establezca un porcentaje mínimo de asistencia como requisito para obtener constancia, diploma o certificado, dicha condición deberá ser informada antes del Evento.
+Para recibir la constancia de participación será necesario asistir a todas las jornadas oficiales y cumplir los horarios comunicados. La disponibilidad se confirmará una vez anunciadas las fechas, sede y horarios definitivos, conforme al artículo 3.
 
 Artículo 24. Abandono o ausencia
 
@@ -209,15 +216,31 @@ La organización podrá investigar cualquier circunstancia que comprometa la int
 
 Las medidas adoptadas deberán guardar razonable proporcionalidad con la gravedad del incumplimiento y podrán comprender desde una advertencia hasta la descalificación del equipo.
 
-Artículo 27. Uso de imagen y voz
+La descalificación o exclusión de la competencia no implica la expulsión física de la sede, tanto para menores de edad como para participantes mayores de edad. La persona descalificada podrá permanecer en los espacios habilitados para asistentes, dentro de los horarios oficiales y respetando las reglas de convivencia y seguridad, sin continuar en las actividades competitivas de las que haya sido excluida.
 
-Las condiciones relativas a fotografías, videos, grabaciones, entrevistas y demás registros audiovisuales serán reguladas mediante la Autorización de Uso de Imagen y Voz de HackFlow Hackathon 2026.
+Esta distinción no impide adoptar medidas de protección ante un riesgo real, realizar una evacuación ni cumplir las indicaciones legítimas de los responsables de seguridad del recinto o de las autoridades competentes. En el caso de un menor, la organización contactará a su representante y coordinará una permanencia o salida segura, según corresponda.
 
-En el caso de Participantes mayores de edad, dicha autorización deberá solicitarse mediante una declaración separada, específica y no premarcada dentro del procedimiento de inscripción. La negativa no impedirá la inscripción, salvo que una captación puntual sea estrictamente necesaria y ello se informe de forma previa y justificada.
+Artículo 27. Registro, uso y difusión de imagen y voz
 
-En el caso de menores de edad, la autorización correspondiente deberá ser otorgada por su padre, madre, tutor o representante legal.
+El registro, uso y difusión de fotografías, videos, grabaciones de voz y demás material audiovisual en el que una persona resulte identificable requieren una decisión separada de la aceptación general de los documentos del Evento. Las finalidades son la documentación, comunicación y difusión institucional de HackFlow Hackathon 2026.
 
-La aceptación general de estos Términos y Condiciones no sustituirá aquellas declaraciones de consentimiento que, por su naturaleza, deban ser otorgadas de manera específica.
+Los canales comprendidos son: el grupo oficial de WhatsApp de HackFlow; la cuenta de Instagram hackflow_; la página de Facebook Hackflow; y la página de Facebook de la Municipalidad de San Miguel. La autorización comprende la entrega del material autorizado a la Municipalidad de San Miguel únicamente para su publicación en el canal indicado y bajo estas mismas condiciones. Las publicaciones públicas pueden ser vistas desde otros países. El contenido enviado al grupo de WhatsApp será accesible para sus integrantes.
+
+No quedan incluidos automáticamente otros canales, auspiciadores o aliados que se incorporen posteriormente. Antes de difundir material identificable a través de ellos, la organización deberá identificar al destinatario y sus canales y obtener la autorización específica correspondiente.
+
+El periodo autorizado para el registro, los nuevos usos y las nuevas publicaciones comienza el 20 de octubre de 2026 o en la fecha de otorgamiento del consentimiento, si esta fuera posterior, y concluye al cumplirse doce meses desde la fecha efectiva de finalización de la hackathon. La organización comunicará esa fecha de finalización y, con ella, la fecha de término de este periodo.
+
+Las publicaciones efectuadas dentro de ese periodo podrán continuar disponibles al público después de su vencimiento como registro histórico del Evento, sin una fecha de retiro predeterminada y mientras subsista la autorización para mantenerlas publicadas. Esta permanencia también constituye un uso de la imagen y voz y forma parte de la decisión solicitada. Vencido el periodo, no se realizarán nuevas publicaciones, republicaciones, campañas, ediciones ni reutilizaciones del material.
+
+Al terminar el periodo de nuevos usos, los archivos fuente del material utilizado quedarán bloqueados para difusión y reutilización, con acceso restringido. Ese bloqueo no autoriza su conservación indefinida: solo se conservarán durante el plazo que resulte necesario y justificado conforme a la Política de Privacidad y las obligaciones aplicables; luego se eliminarán o anonimizarán, según corresponda.
+
+La negativa comprende el registro, uso y difusión para estas finalidades opcionales y no impedirá la inscripción ni la participación en las actividades ordinarias. La organización deberá comunicar esta decisión a quienes realicen las captaciones y publicaciones y adoptar medidas para evitar incluir de forma identificable a quienes no hayan autorizado.
+
+El consentimiento podrá revocarse y podrán solicitarse la supresión o el retiro de publicaciones mediante giandev312@gmail.com. La revocación no afecta la licitud de los tratamientos anteriores, pero alcanza los usos posteriores y la continuidad de las publicaciones bajo control de la organización, según corresponda. La organización atenderá la solicitud conforme a la normativa aplicable y la comunicará a la Municipalidad cuando afecte publicaciones en su canal. No puede garantizar la eliminación de copias o reenvíos realizados por terceros ajenos a su control, lo que no la exime de gestionar las medidas que le correspondan.
+
+Las personas mayores de edad podrán elegir «Sí» o «No» en una pregunta independiente del formulario, sin opción premarcada y después de tener acceso a estas condiciones. «Sí» autoriza el registro, uso y difusión descritos, incluida la permanencia pública posterior de las publicaciones en las condiciones indicadas. «No» niega el registro, uso y difusión para estas finalidades. La ausencia de respuesta no equivale a consentimiento.
+
+Para los menores de edad, esta decisión deberá constar por separado en la autorización firmada por su padre, madre, tutor o representante legal. La aceptación de los Términos y Condiciones, el Código de Conducta y la Política de Privacidad no sustituye esta decisión.
 
 Artículo 28. Tratamiento de datos personales
 
@@ -247,6 +270,8 @@ Las situaciones no contempladas expresamente en este documento serán resueltas 
 
 Artículo 32. Aceptación
 
-La inscripción de una persona mayor de edad requerirá que, después de tener acceso a los enlaces de los documentos, seleccione «Sí, acepto» en una declaración obligatoria, no premarcada, que identifique de forma expresa los Términos y Condiciones, el Código de Conducta y la Política de Privacidad y Tratamiento de Datos Personales de HackFlow Hackathon 2026. Esa selección constituirá su manifestación de aceptación de los tres documentos y, cuando corresponda, su consentimiento para el tratamiento de datos necesario para las finalidades informadas en la Política de Privacidad.
+La inscripción de una persona mayor de edad requerirá que, después de tener acceso a los enlaces de los documentos, seleccione «Sí» en una declaración obligatoria, no premarcada, que identifique de forma expresa los Términos y Condiciones, el Código de Conducta y la Política de Privacidad y Tratamiento de Datos Personales de HackFlow Hackathon 2026. Esa selección constituirá su manifestación de aceptación de los tres documentos y, cuando corresponda, su consentimiento para el tratamiento de datos necesario para las finalidades informadas en la Política de Privacidad.
 
 Cuando el postulante sea menor de edad, su participación quedará sujeta a la presentación y verificación de la autorización firmada por su padre, madre, tutor o representante legal. La organización conservará evidencia razonable de la versión aceptada, fecha, hora y respuesta registrada, conforme a la Política de Privacidad.
+
+La pregunta de aceptación deberá identificar los tres documentos y ofrecer las opciones «Sí» y «No», sin respuesta premarcada. Para menores, la firma de la autorización independiente acredita la aceptación de esos tres documentos por su representante y los consentimientos expresamente señalados en ella, respetando la decisión separada sobre imagen y voz.

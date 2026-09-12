@@ -37,7 +37,7 @@ Domicilio ______________________________________________________________________
 
 3. Autorización de participación y permanencia
 
-Yo, la persona identificada en la sección 2, en calidad de padre, madre, tutor o representante legal del menor identificado en la sección 1, autorizo su participación presencial en HackFlow Hackathon 2026 los días 22, 23 y 24 de octubre de 2026, dentro de los horarios, instalaciones y actividades oficiales comunicados por la organización.
+Yo, la persona identificada en la sección 2, en calidad de padre, madre, tutor o representante legal del menor identificado en la sección 1, autorizo su participación presencial en HackFlow Hackathon 2026 los días indicados en nuestra web y canales de difusión, dentro de los horarios, instalaciones y actividades oficiales comunicados por la organización.
 
 Declaro conocer que el menor participará en actividades de desarrollo tecnológico, trabajo colaborativo, mentoría, presentaciones y evaluación de proyectos. Autorizo su permanencia durante las jornadas oficiales y me comprometo a mantener actualizados mis datos de contacto y a atender las comunicaciones razonables de la organización relacionadas con su seguridad o participación.
 
@@ -52,12 +52,12 @@ Reconozco que la selección que el menor realice en el formulario no reemplaza e
 
 5. Decisión separada sobre imagen y voz
 
-Marque solo una opción. Esta decisión se refiere a fotografías, videos, grabaciones de voz y material audiovisual en los que el menor sea identificable, para documentación, comunicación y difusión institucional de HackFlow en [SITIO WEB Y REDES/CANALES QUE DEBEN IDENTIFICARSE ANTES DE USAR EL FORMATO], durante [PLAZO DE USO]. La negativa no impedirá su participación en las actividades ordinarias.
+Marque solo una opción. Esta decisión se refiere a fotografías, videos, grabaciones de voz y material audiovisual en los que el menor sea identificable, para documentación, comunicación y difusión institucional de HackFlow en todos nuestros canales de difusión ya sea Instagram, Facebook, Tiktok, WhatsApp, además de los canales de la municipalidad de San Miguel y los de la empresa Way Tech, durante 12 meses siguientes a la finalización de la hackathon. La negativa no impedirá su participación en las actividades ordinarias.
 
 ☐ SÍ AUTORIZO el registro y uso de la imagen y voz del menor para las finalidades y medios indicados.
 ☐ NO AUTORIZO el uso de la imagen y voz del menor para difusión institucional.
 
-La autorización de imagen y voz podrá revocarse para usos futuros mediante [CORREO DE PRIVACIDAD], sin afectar los tratamientos realizados lícitamente antes de la revocación ni los materiales cuya supresión no resulte legal o técnicamente exigible. La organización no podrá usar el material para finalidades distintas sin una nueva autorización.
+La autorización de imagen y voz podrá revocarse para usos futuros mediante este correo: giandev312@gmail.com, sin afectar los tratamientos realizados lícitamente antes de la revocación ni los materiales cuya supresión no resulte legal o técnicamente exigible. La organización no podrá usar el material para finalidades distintas sin una nueva autorización.
 
 6. Información de emergencia
 
@@ -81,4 +81,3 @@ DNI/CE ________________________________________________________________________
 
 Firma ________________________________________________________________________
 
-Huella (opcional, solo si la organización la exige con sustento) ______________________________________________________
