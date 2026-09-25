@@ -413,10 +413,11 @@ function EventIntro() {
         </div>
         <div className="event-visual event-visual--photo">
           <img src={universidadCampusImg} alt="Campus de la Universidad Politécnica del Perú, sede de HackFlow 2026" />
-          <div className="event-photo-caption">
+          <a className="event-photo-caption" href="https://maps.app.goo.gl/yysz2SngeVNhqKr28" target="_blank" rel="noreferrer" aria-label="Ver la ubicación de la Universidad Politécnica del Perú en Google Maps">
             <span><Icon name="pin" size={20} /></span>
             <div><strong>Sede oficial</strong><small>Universidad Politécnica del Perú</small></div>
-          </div>
+            <Icon name="arrow" size={16} />
+          </a>
           <div className="event-photo-signal" aria-hidden="true"><i /><i /><i /><span /></div>
         </div>
       </div>

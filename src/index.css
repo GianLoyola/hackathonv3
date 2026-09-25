@@ -984,6 +984,10 @@ section[id] { scroll-margin-top: 80px; }
   width: 100%;
 }
 .event-photo-caption { align-items: center; bottom: 1.25rem; color: #fff; display: flex; gap: .75rem; left: 1.35rem; position: absolute; z-index: 2; }
+.event-photo-caption { border-radius: 12px; padding: .45rem .55rem .45rem .25rem; transition: background .2s ease, transform .2s ease; }
+.event-photo-caption:hover { background: rgba(5,10,27,.42); transform: translateY(-2px); }
+.event-photo-caption > svg { color: var(--teal); margin-left: .15rem; transition: transform .2s ease; }
+.event-photo-caption:hover > svg { transform: translateX(3px); }
 .event-photo-caption > span { align-items: center; backdrop-filter: blur(10px); background: rgba(0,229,194,.15); border: 1px solid rgba(0,229,194,.48); border-radius: 50%; color: var(--teal); display: flex; height: 42px; justify-content: center; width: 42px; }
 .event-photo-caption div { display: grid; gap: .12rem; }
 .event-photo-caption strong { color: var(--teal); font-size: .64rem; letter-spacing: .12em; text-transform: uppercase; }
