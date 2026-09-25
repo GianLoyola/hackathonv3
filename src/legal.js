@@ -72,4 +72,14 @@ async function renderDocument(documentData) {
   legalDocuments.append(section)
 }
 
-documents.forEach(renderDocument)
+async function renderDocumentsInOrder() {
+  for (const documentData of documents) {
+    await renderDocument(documentData)
+  }
+  const requestedDocument = window.location.hash.slice(1)
+  if (requestedDocument) {
+    document.getElementById(requestedDocument)?.scrollIntoView()
+  }
+}
+
+renderDocumentsInOrder()
